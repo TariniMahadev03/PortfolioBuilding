@@ -4,3 +4,6 @@ Hello! I am Tarini N Mahadev, a B.Tech student pursuing Computer Science and Eng
 
 ## Skills
 Currently learning Java and strengthening my problem-solving skills.
+
+## Interests
+Interested in cloud computing, DevOps, and backend development.
