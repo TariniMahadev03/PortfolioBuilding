@@ -1,0 +1,10 @@
+C/C++ Environment Setup Note
+
+1. Installed Visual Studio Code on Windows.
+2. Installed the Microsoft C/C++ extension.
+3. Installed MSYS2 and configured the MinGW-w64 GCC toolchain.
+4. Added C:\\msys64\\ucrt64\\bin to the Windows PATH environment variable.
+5. Initially, compilation failed because the terminal was in the wrong directory.
+6. Resolved the issue by navigating to the correct ACTIVITY 1 folder.
+7. Verified GCC and G++ installation using version commands.
+8. Successfully compiled and executed hello.c, displaying Hello, World!
