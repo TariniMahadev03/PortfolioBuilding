@@ -10,3 +10,11 @@ Interested in cloud computing, DevOps, and backend development.
 
 ## Goals
 Goal: Build reliable backend applications and contribute to open-source projects.
+
+## Projects
+
+### Smart IoT-Enabled NFC Billing System
+Developing a smart billing system using ESP32, NFC technology, and barcode scanning to automate product identification and checkout.
+
+### Smart Waste Segregation Bin
+Built an IoT-based waste segregation system using sensors and microcontrollers to classify waste and monitor bin levels.
