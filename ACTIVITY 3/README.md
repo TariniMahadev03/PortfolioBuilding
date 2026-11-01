@@ -1,7 +1,20 @@
-# Activity 3 – Collaborative Coding
+# Activity 3 - Collaborative Coding
 
 ## Collaboration Log
 
-- **Pairing Partner:** [Arshiya] ([arshiya0777])
-- **What We Built:** Developed a personalized greeting program in C using a `greet()` function that accepts a person's name and displays a welcome message.
-- **What I Learned:** Learned to use GitLens to explore commit history, file history and line-by-line code authorship. Also learned how Live Share enables two developers to collaborate and edit code in real time by exchanging driver and navigator roles.
+- **Pairing Partner:** Arshiya
+- **GitHub Username:** arshiya0777
+
+### Work Completed
+
+- Implemented a personalized greeting program in C using the `greet()` function.
+- Used GitLens to explore commit history, file history and line-by-line authorship.
+- Prepared the project for Live Share collaboration.
+
+### Learning Outcome
+
+Learned how GitLens helps track code changes, identify contributors and understand repository history. Also explored how Visual Studio Code Live Share supports real-time collaborative programming.
+
+### Collaboration Status
+
+Live Share collaboration and driver/navigator role exchange are pending completion with the partner.
