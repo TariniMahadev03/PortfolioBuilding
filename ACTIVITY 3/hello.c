@@ -6,5 +6,6 @@ void greet(char name[]) {
 
 int main() {
     greet("Tarini");
+
     return 0;
 }
