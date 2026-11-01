@@ -7,3 +7,6 @@ Currently learning Java and strengthening my problem-solving skills.
 
 ## Interests
 Interested in cloud computing, DevOps, and backend development.
+
+## Goals
+Goal: Build reliable backend applications and contribute to open-source projects.
